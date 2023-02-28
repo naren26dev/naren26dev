@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-naren26dev-red)](https://www.youtube.com/channel/UCdzq_XAtYUP-iVYyY9Zedrg)
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/narendra-jethuri-ba026a129/)](https://www.linkedin.com/in/narendra-jethuri-ba026a129/)
+[![Linkedin Badge](https://img.shields.io/badge/-Narendra Jethuri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/narendra-jethuri-ba026a129/)](https://www.linkedin.com/in/narendra-jethuri-ba026a129/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-narendra-yellow)](https://stackoverflow.com/users/9205096/naren26-dev)
 
 I'm
